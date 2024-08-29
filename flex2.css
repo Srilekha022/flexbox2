@@ -1,0 +1,100 @@
+.border{
+    background-color: aqua;
+    width: 74%;
+    height: 350px;
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    border-radius: 5%;
+}
+.parent{
+    background-color: white;
+    width: 970px;
+    height: 340px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 5%;
+    position: absolute;
+    top: 6px;
+    left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.parent img{
+    margin-top: 6px;
+    margin-left: 20px;
+}
+.one img{
+    border-radius: 70%;
+    margin-top: 90px;
+    position: relative;
+    right: 100px;
+}
+.pre1{
+    position: relative;
+    right: 85px;
+    bottom: 70px;
+}
+.two img{
+    border-radius: 70%;
+    margin-top: 90px;
+    position: relative;
+    right: 50px;
+}
+.pre2{
+    position: relative;
+    right: 35px;
+    bottom: 70px;
+}
+
+.three img{
+    border-radius: 50%;
+    margin-top: 90px;
+    position: relative;
+    right: 10px;
+}
+.pre3{
+    position: relative;
+    left: 5px;
+    bottom: 70px;
+}
+.four img{
+    border-radius: 50%;
+    margin-top: 90px;
+    margin-left: 55px;
+}
+.pre4{
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+}
+.five img{
+    border-radius: 70%;
+    margin-left: 40px;
+}
+.pre5{
+    position: relative;
+    left: 40px;
+    bottom: 80px;
+}
+.six img{
+    border-radius: 70%;
+    margin-left: 90px;
+}
+.pre6{
+    position: relative;
+    left: 90px;
+    bottom: 80px;
+}
+.seven img{
+    border-radius: 50%;
+    margin-left: 130px;
+}
+.eight img{
+    border-radius: 50%;
+    margin-left: 130px;
+}
+.pre8, .pre7{
+    position: relative;
+    left: 130px;
+    bottom: 80px;
+}
